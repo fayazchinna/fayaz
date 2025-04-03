@@ -6,7 +6,7 @@ Aspiring Data Scientist | Passionate about uncovering insights through data anal
 
 💬 Ask me about Python, Pandas, Numpy, Data analysis,Data Vizualization, PowerBI,ETL Pipelines, SQL, Gen-AI, Machine Learning, DAX, Cloud Fundamentals
 
-📫 How to reach me arrammidhun2002@gmail.com
+📫 How to reach me cherukurifayaz@gmail.com
 
 Connect with me:
 cherukurifayaz@gmail.com
