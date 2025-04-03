@@ -8,16 +8,3 @@ Aspiring Data Scientist | Passionate about uncovering insights through data anal
 
 📫 How to reach me cherukurifayaz@gmail.com
 
-Connect with me:
-cherukurifayaz@gmail.com
-
-Languages and Tools:
-My Skills
-
-      
-
-
-
-
-
-✍️ Random Dev Quote
